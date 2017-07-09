@@ -36,3 +36,5 @@ use jdbc:h2:mem:testdb in JDBC URL field in H2's console.
 
 Git:
 -----
+Clone : https://github.com/xkrishnam/altmtest.git
+Url : https://github.com/xkrishnam/altmtest
